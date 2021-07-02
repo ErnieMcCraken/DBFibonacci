@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DBFibonacci": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
